@@ -1,0 +1,548 @@
+{
+    "Core": {
+        "L": 4,
+        "PB": 2,
+        "R": "Elf",
+        "SR": "ShadarKai",
+        "C": "Fighter",
+        "SC": "",
+        "BG": "Hermit"
+    },
+    "Atr": {
+        "STR": {
+            "Base": 10,
+            "Rasi": 0,
+            "Milestone": 0,
+            "Val": 10,
+            "Mod": 0,
+            "ST": 0
+        },
+        "DEX": {
+            "Base": 10,
+            "Rasi": 0,
+            "Milestone": 0,
+            "Val": 10,
+            "Mod": 0,
+            "ST": 0
+        },
+        "CON": {
+            "Base": 10,
+            "Rasi": 0,
+            "Milestone": 0,
+            "Val": 10,
+            "Mod": 0,
+            "ST": 0
+        },
+        "INT": {
+            "Base": 10,
+            "Rasi": 0,
+            "Milestone": 0,
+            "Val": 10,
+            "Mod": 0,
+            "ST": 0
+        },
+        "WIS": {
+            "Base": 10,
+            "Rasi": 0,
+            "Milestone": 0,
+            "Val": 10,
+            "Mod": 0,
+            "ST": 0
+        },
+        "CHA": {
+            "Base": 10,
+            "Rasi": 0,
+            "Milestone": 0,
+            "Val": 10,
+            "Mod": 0,
+            "ST": 0
+        }
+    },
+    "SavingThrow": {
+        "Race": [],
+        "Class": [],
+        "Feat": [],
+        "Total": []
+    },
+    "HP": {
+        "Temp": 0,
+        "Player": 20,
+        "Race": 0,
+        "Class": 0,
+        "Feat": 0,
+        "Sum": 20,
+        "Current": 20
+    },
+    "HD": {
+        "Die": 10,
+        "Max": 2,
+        "Current": 2
+    },
+    "Vision": {
+        "Dark": {
+            "Race": 60,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 60
+        },
+        "Blind": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        },
+        "Tremor": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        },
+        "Tru": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        }
+    },
+    "Speed": {
+        "Walk": {
+            "Race": 30,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 30
+        },
+        "Climb": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        },
+        "Swim": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        },
+        "Fly": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        },
+        "Burrow": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        }
+    },
+    "Initiative": {
+        "Race": 0,
+        "Class": 0,
+        "Feat": 0,
+        "Val": 0
+    },
+    "Class": {
+        "Skill Select": [
+            "",
+            ""
+        ],
+        "Abil": {
+            "Fighting Style": {
+                "Select": [
+                    ""
+                ]
+            },
+            "Second Wind": {
+                "Use": [
+                    false
+                ]
+            },
+            "Action Surge": {
+                "Use": [
+                    false
+                ]
+            }
+        }
+    },
+    "Race": {
+        "Rasi": [
+            "",
+            ""
+        ],
+        "Abil": {
+            "Blessing of the Raven Queen": {
+                "Use": [
+                    false,
+                    false
+                ]
+            }
+        }
+    },
+    "Milestone": {
+        "Select": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Feat": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Asi": [
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ]
+        ],
+        "Data": {}
+    },
+    "Background": {
+        "Data": {
+            "Prof": {
+                "Lang": {
+                    "Select": [
+                        ""
+                    ]
+                }
+            },
+            "Equipment": {}
+        }
+    },
+    "Spell": {
+        "Slot": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        "Book": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        "Prepared": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "Prof": {
+        "Armor": [
+            "Light",
+            "Medium",
+            "Heavy",
+            "Shield"
+        ],
+        "Weapon": [
+            "Club",
+            "Dagger",
+            "Greatclub",
+            "Handaxe",
+            "Javelin",
+            "Light Hammer",
+            "Mace",
+            "Quarterstaff",
+            "Sickle",
+            "Spear",
+            "Light Crossbow",
+            "Dart",
+            "Shortbow",
+            "Sling",
+            "Battleaxe",
+            "Flail",
+            "Glaive",
+            "Greataxe",
+            "Greatsword",
+            "Halberd",
+            "Lance",
+            "Longsword",
+            "Maul",
+            "Morningstar",
+            "Pike",
+            "Rapier",
+            "Scimitar",
+            "Shortsword",
+            "Trident",
+            "War Pick",
+            "Warhammer",
+            "Whip",
+            "Blowgun",
+            "Hand Crossbow",
+            "Heavy Crossbow",
+            "Longbow",
+            "Net"
+        ],
+        "Tool": [
+            "Disguise",
+            "Forgery",
+            "Herbalism Kit"
+        ],
+        "Lang": [
+            "Common",
+            "Elvish"
+        ],
+        "Player": {
+            "Armor": [],
+            "Weapon": [],
+            "Tool": [
+                "Disguise",
+                "Forgery"
+            ],
+            "Lang": []
+        },
+        "Race": {
+            "Armor": [],
+            "Weapon": [],
+            "Tool": [],
+            "Lang": [
+                "Common",
+                "Elvish"
+            ]
+        },
+        "Class": {
+            "Armor": [
+                "Light",
+                "Medium",
+                "Heavy",
+                "Shield"
+            ],
+            "Weapon": [
+                "Club",
+                "Dagger",
+                "Greatclub",
+                "Handaxe",
+                "Javelin",
+                "Light Hammer",
+                "Mace",
+                "Quarterstaff",
+                "Sickle",
+                "Spear",
+                "Light Crossbow",
+                "Dart",
+                "Shortbow",
+                "Sling",
+                "Battleaxe",
+                "Flail",
+                "Glaive",
+                "Greataxe",
+                "Greatsword",
+                "Halberd",
+                "Lance",
+                "Longsword",
+                "Maul",
+                "Morningstar",
+                "Pike",
+                "Rapier",
+                "Scimitar",
+                "Shortsword",
+                "Trident",
+                "War Pick",
+                "Warhammer",
+                "Whip",
+                "Blowgun",
+                "Hand Crossbow",
+                "Heavy Crossbow",
+                "Longbow",
+                "Net"
+            ],
+            "Tool": [],
+            "Lang": []
+        },
+        "Background": {
+            "Armor": [],
+            "Weapon": [],
+            "Tool": [
+                "Herbalism Kit"
+            ],
+            "Lang": []
+        },
+        "Feat": {
+            "Armor": [],
+            "Weapon": [],
+            "Tool": [],
+            "Lang": []
+        }
+    },
+    "Condition": {
+        "Blinded": true,
+        "Charmed": false,
+        "Deafened": false,
+        "Frightened": false,
+        "Grappled": false,
+        "Incapacitated": false,
+        "Invisible": false,
+        "Paralyzed": false,
+        "Petrified": false,
+        "Poisoned": false,
+        "Prone": false,
+        "Restrained": false,
+        "Stunned": false,
+        "Unconscious": false,
+        "Exhaustion": false
+    },
+    "Valid": {
+        "Class": true,
+        "Spell": true
+    },
+    "Skill": {
+        "Race": [
+            "Perception"
+        ],
+        "Class": [],
+        "Background": [
+            "Medicine",
+            "Religion"
+        ],
+        "Feat": [],
+        "Acrobatics": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Animal Handling": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Arcana": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Athletics": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Deception": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "History": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Insight": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Intimidation": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Investigation": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Medicine": {
+            "Sum": true,
+            "Mod": 2
+        },
+        "Nature": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Perception": {
+            "Sum": true,
+            "Mod": 2
+        },
+        "Performance": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Persuasion": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Religion": {
+            "Sum": true,
+            "Mod": 2
+        },
+        "Sleight of Hand": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Stealth": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Survival": {
+            "Sum": false,
+            "Mod": 0
+        }
+    },
+    "Characteristic": {
+        "Traits": "",
+        "Ideals": "",
+        "Bonds": "",
+        "Flaws": ""
+    },
+    "Description": {
+        "Gender": "no",
+        "Almnt": "",
+        "Faith": "",
+        "Size": "",
+        "Age": "",
+        "Hair": "",
+        "Skin": "",
+        "Eyes": "",
+        "Height": "",
+        "Weight": ""
+    }
+}
