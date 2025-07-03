@@ -1,0 +1,448 @@
+{
+    "Core": {
+        "L": 4,
+        "PB": 2,
+        "R": "Elf",
+        "SR": "Drow",
+        "C": "Empty",
+        "SC": "",
+        "BG": "Empty"
+    },
+    "Atr": {
+        "STR": {
+            "Base": 10,
+            "Rasi": 0,
+            "Milestone": 0,
+            "Val": 10,
+            "Mod": 0,
+            "ST": 0
+        },
+        "DEX": {
+            "Base": 10,
+            "Rasi": 0,
+            "Milestone": 0,
+            "Val": 10,
+            "Mod": 0,
+            "ST": 0
+        },
+        "CON": {
+            "Base": 10,
+            "Rasi": 0,
+            "Milestone": 0,
+            "Val": 10,
+            "Mod": 0,
+            "ST": 0
+        },
+        "INT": {
+            "Base": 10,
+            "Rasi": 0,
+            "Milestone": 0,
+            "Val": 10,
+            "Mod": 0,
+            "ST": 0
+        },
+        "WIS": {
+            "Base": 10,
+            "Rasi": 0,
+            "Milestone": 0,
+            "Val": 10,
+            "Mod": 0,
+            "ST": 0
+        },
+        "CHA": {
+            "Base": 10,
+            "Rasi": 0,
+            "Milestone": 0,
+            "Val": 10,
+            "Mod": 0,
+            "ST": 0
+        }
+    },
+    "SavingThrow": {
+        "Race": [],
+        "Class": [],
+        "Feat": [],
+        "Total": []
+    },
+    "HP": {
+        "Temp": 0,
+        "Player": 17,
+        "Race": 0,
+        "Class": 0,
+        "Feat": 0,
+        "Sum": 17,
+        "Current": 17
+    },
+    "HD": {
+        "Die": 10,
+        "Max": 2,
+        "Current": 2
+    },
+    "Vision": {
+        "Dark": {
+            "Race": 120,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 120
+        },
+        "Blind": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        },
+        "Tremor": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        },
+        "Tru": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        }
+    },
+    "Speed": {
+        "Walk": {
+            "Race": 30,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 30
+        },
+        "Climb": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        },
+        "Swim": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        },
+        "Fly": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        },
+        "Burrow": {
+            "Race": 0,
+            "Class": 0,
+            "Feat": 0,
+            "Val": 0
+        }
+    },
+    "Initiative": {
+        "Race": 0,
+        "Class": 0,
+        "Feat": 0,
+        "Val": 0
+    },
+    "Class": {
+        "Skill Select": [
+            "",
+            ""
+        ],
+        "Abil": {}
+    },
+    "Race": {
+        "Rasi": [
+            "",
+            ""
+        ],
+        "Abil": {
+            "Drow Magic": {
+                "Dancing Lights": {},
+                "Faerie Fire": {
+                    "Use": false
+                }
+            }
+        }
+    },
+    "Milestone": {
+        "Select": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Feat": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Asi": [
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ]
+        ],
+        "Data": {}
+    },
+    "Background": {
+        "Data": {
+            "Prof": {},
+            "Equipment": {}
+        }
+    },
+    "Spell": {
+        "Slot": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        "Book": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        "Prepared": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "Prof": {
+        "Armor": [],
+        "Weapon": [
+            "Rapier",
+            "Shortsword",
+            "Hand Crossbow",
+            "Rapier",
+            "Shortsword",
+            "Hand Crossbow"
+        ],
+        "Tool": [
+            "Disguise",
+            "Forgery"
+        ],
+        "Lang": [
+            "Common",
+            "Elvish"
+        ],
+        "Player": {
+            "Armor": [],
+            "Weapon": [],
+            "Tool": [
+                "Disguise",
+                "Forgery"
+            ],
+            "Lang": []
+        },
+        "Race": {
+            "Armor": [],
+            "Weapon": [
+                "Rapier",
+                "Shortsword",
+                "Hand Crossbow",
+                "Rapier",
+                "Shortsword",
+                "Hand Crossbow"
+            ],
+            "Tool": [],
+            "Lang": [
+                "Common",
+                "Elvish"
+            ]
+        },
+        "Class": {
+            "Armor": [],
+            "Weapon": [],
+            "Tool": [],
+            "Lang": []
+        },
+        "Background": {
+            "Armor": [],
+            "Weapon": [],
+            "Tool": [],
+            "Lang": []
+        },
+        "Feat": {
+            "Armor": [],
+            "Weapon": [],
+            "Tool": [],
+            "Lang": []
+        }
+    },
+    "Condition": {
+        "Blinded": false,
+        "Charmed": false,
+        "Deafened": false,
+        "Frightened": false,
+        "Grappled": false,
+        "Incapacitated": false,
+        "Invisible": false,
+        "Paralyzed": false,
+        "Petrified": false,
+        "Poisoned": false,
+        "Prone": false,
+        "Restrained": false,
+        "Stunned": false,
+        "Unconscious": false,
+        "Exhaustion": false
+    },
+    "Valid": {
+        "Class": true,
+        "Spell": true
+    },
+    "Skill": {
+        "Race": [
+            "Perception"
+        ],
+        "Class": [],
+        "Background": [],
+        "Feat": [],
+        "Acrobatics": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Animal Handling": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Arcana": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Athletics": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Deception": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "History": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Insight": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Intimidation": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Investigation": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Medicine": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Nature": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Perception": {
+            "Sum": true,
+            "Mod": 2
+        },
+        "Performance": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Persuasion": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Religion": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Sleight of Hand": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Stealth": {
+            "Sum": false,
+            "Mod": 0
+        },
+        "Survival": {
+            "Sum": false,
+            "Mod": 0
+        }
+    },
+    "Characteristic": {
+        "Traits": "",
+        "Ideals": "",
+        "Bonds": "",
+        "Flaws": ""
+    },
+    "Description": {
+        "Gender": "no",
+        "Almnt": "",
+        "Faith": "",
+        "Size": "",
+        "Age": "",
+        "Hair": "",
+        "Skin": "",
+        "Eyes": "",
+        "Height": "",
+        "Weight": ""
+    }
+}
